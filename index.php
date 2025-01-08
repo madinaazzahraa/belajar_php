@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1><?php
-          echo "madinaaaaaaaaaaa";
+          echo "madina pacar rizki";
           ?>
         </h1>
 </body>
