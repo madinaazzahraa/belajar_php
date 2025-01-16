@@ -9,9 +9,9 @@
   <h1>
 <?php
 
-// konstanta
+// konstantaaaa
 define ("gajipokok", 5000000);
-define ("bonus", 500000);
+define ("bonus", 500000); 
 define ("pajak", 0.12);
 
 // operator penghitungan
