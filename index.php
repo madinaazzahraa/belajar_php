@@ -17,7 +17,7 @@ define ("pajak", 0.12);
 // operator penghitungan
 $proyek = 2;
 $total = gajipokok + (bonus * $proyek);
-$gajibersih = $total - pajak;
+$gajibersih = $total - ($total*pajak);
 
 echo "gaji pokok yang anda peroleh sebesar Rp5.000.000 ";
 echo "<br>";
